@@ -23,10 +23,10 @@ Write a C++ **menu-driven program** to sort a given array in ascending order.
 Design proper functions, maintain boundary conditions, and follow coding best practices.  
 The menus are as follows:
 
-- a. Bubble Sort  
-- b. Selection Sort  
-- c. Insertion Sort  
-- d. Exit  
+a. Bubble Sort  
+b. Selection Sort  
+c. Insertion Sort  
+d. Exit  
 
 ---
 
@@ -40,6 +40,6 @@ Design proper functions, maintain boundary conditions and follow coding best pra
 
 The menu-driven program supports:
 
-- a. Linear Search  
-- b. Binary Search  
-- c. Exit
+a. Linear Search  
+b. Binary Search  
+c. Exit
