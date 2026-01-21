@@ -1,6 +1,6 @@
 # Lab 9 - Tree ADT – Binary Search Tree
 
-## A. Utilize C++ STL to solve the following (K5)
+## Part A: [Nene's Game - Codeforces](https://codeforces.com/problemset/problem/1956/A) (K5)
 
 Nene invented a new game based on an increasing sequence of integers a₁, a₂, ..., aₖ.  
 In this game, initially **n** players are lined up in a row. In each of the rounds of this game, the following happens:
@@ -37,7 +37,7 @@ You are given **g** integers n₁, n₂, ..., n_q and must answer the following 
 
 ---
 
-## B. Utilize C++ STL to solve the following (K5)
+## Part B: [Advantage - Codeforces](https://codeforces.com/problemset/problem/1760/C) (K5)
 
 There are **n** participants in a competition, participant *i* having a strength of sᵢ.  
 Every participant wonders how much of an advantage they have over the next strongest participant.  
@@ -57,7 +57,7 @@ Each participant *i* wants to know the difference between sᵢ and sⱼ, where *
 
 ---
 
-## C. Write a separate C++ menu-driven program to implement Tree ADT using a binary search tree
+## Part C: Write a separate C++ menu-driven program to implement Tree ADT using a binary search tree
 
 Maintain proper boundary conditions and follow good coding practices. The Tree ADT has the following operations:
 
@@ -72,7 +72,7 @@ Maintain proper boundary conditions and follow good coding practices. The Tree A
 
 ---
 
-## D. Add a "construct expression tree" method to the binary tree data structure
+## Part D: Add a "construct expression tree" method to the binary tree data structure
 
 - Import `stack` from STL to construct the expression tree  
 - Import Tree ADT program into another program that:
