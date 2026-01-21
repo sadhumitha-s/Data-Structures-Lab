@@ -1,6 +1,6 @@
 # Lab 10 - Priority Queue ADT – Heap
 
-## A. Utilize C++ STL if needed. Write a C++ program to solve the following
+## Part A: [Remove Prefix - Codeforces](https://codeforces.com/problemset/problem/1714/B) (K5)
 
 Polycarp was presented with some sequence of integers *a* of length *n* (1 ≤ aᵢ ≤ *n*). A sequence can make Polycarp happy only if it consists of different numbers (i.e. distinct numbers).  
 In order to make his sequence like this, Polycarp is going to make some (possibly zero) number of moves.  
@@ -30,7 +30,7 @@ In each test case, the shortest matching prefix was removed.
 
 ---
 
-## B. Utilize C++ STL if needed. Write a C++ program to solve the following
+## Part B: [Word Game - Codeforces](https://codeforces.com/problemset/problem/1722/C) (K5)  
 
 Three guys play a game: first, each person writes down *n* distinct words of length 3.  
 Then, they total up the number of points as follows:  
@@ -59,7 +59,7 @@ In the first test case:
 
 ---
 
-## C. Write a separate C++ menu-driven program to implement Priority Queue ADT using a max heap.  
+## Part C: Write a C++ menu-driven program to implement Priority Queue ADT using a max heap.  
 Maintain proper boundary conditions and follow good coding practices.  
 The Priority Queue ADT has the following operations:
 
