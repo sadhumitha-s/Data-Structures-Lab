@@ -2,7 +2,7 @@
 
 ---
 
-## Part A – Block Towers Problem (Using C++ STL) (K5)
+## Part A – [Block Towers Problem - Codeforces](https://codeforces.com/problemset/problem/1767/B) (K5)  
 
 There are *n* block towers, numbered from 1 to *n*.  
 The *i*-th tower consists of *a<sub>i</sub>* blocks.
@@ -46,8 +46,5 @@ Maintain proper boundary conditions and follow good coding practices.
 5. Search  
 6. Exit  
 
->### Question:
-
+>#### Question:
 >What is the **time complexity** of each operation? (K4)
-
----
